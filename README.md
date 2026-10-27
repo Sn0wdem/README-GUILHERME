@@ -4,8 +4,8 @@
 **Estudante de Engenharia de Software · Manaus, AM**
 Disponível para estágio em desenvolvimento de software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermealbuquerquenepomuceno)
-[![E-mail](https://img.shields.io/badge/E--mail-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:guilherme.albuquerque.nepomuceno@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermealbuquerquenepomuceno)
+[![E-mail](https://img.shields.io/badge/E--mail-FF1744?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.albuquerque.nepomuceno@gmail.com)
 
 ---
 
@@ -42,15 +42,15 @@ Projeto de extensão idealizado por mim para capacitar jovens para o mercado de 
 
 ## Stack
 
-![Java](https://img.shields.io/badge/Java-24292F?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-24292F?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-24292F?style=flat-square&logo=android&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-24292F?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-24292F?style=flat-square&logo=html5&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1F6FEB?style=flat-square&logo=cisco&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-1F6FEB?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Langflow](https://img.shields.io/badge/Langflow-1F6FEB?style=flat-square)
+![Java](https://img.shields.io/badge/Java-FF6D00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00B0FF?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF3D00?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-00BCEB?style=for-the-badge&logo=cisco&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Langflow](https://img.shields.io/badge/Langflow-7C4DFF?style=for-the-badge)
 
-<sub>Em azul: tecnologias que estou estudando.</sub>
+<sub>Cisco, AWS e Langflow: tecnologias que estou estudando.</sub>
